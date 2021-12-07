@@ -1,0 +1,15 @@
+C:\Users\namr\source\repos\AdventOfCode\Day_07\bin\Debug\net5.0\Day_07.exe
+C:\Users\namr\source\repos\AdventOfCode\Day_07\bin\Debug\net5.0\Day_07.deps.json
+C:\Users\namr\source\repos\AdventOfCode\Day_07\bin\Debug\net5.0\Day_07.runtimeconfig.json
+C:\Users\namr\source\repos\AdventOfCode\Day_07\bin\Debug\net5.0\Day_07.runtimeconfig.dev.json
+C:\Users\namr\source\repos\AdventOfCode\Day_07\bin\Debug\net5.0\Day_07.dll
+C:\Users\namr\source\repos\AdventOfCode\Day_07\bin\Debug\net5.0\ref\Day_07.dll
+C:\Users\namr\source\repos\AdventOfCode\Day_07\bin\Debug\net5.0\Day_07.pdb
+C:\Users\namr\source\repos\AdventOfCode\Day_07\obj\Debug\net5.0\Day_07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\namr\source\repos\AdventOfCode\Day_07\obj\Debug\net5.0\Day_07.AssemblyInfoInputs.cache
+C:\Users\namr\source\repos\AdventOfCode\Day_07\obj\Debug\net5.0\Day_07.AssemblyInfo.cs
+C:\Users\namr\source\repos\AdventOfCode\Day_07\obj\Debug\net5.0\Day_07.csproj.CoreCompileInputs.cache
+C:\Users\namr\source\repos\AdventOfCode\Day_07\obj\Debug\net5.0\Day_07.dll
+C:\Users\namr\source\repos\AdventOfCode\Day_07\obj\Debug\net5.0\ref\Day_07.dll
+C:\Users\namr\source\repos\AdventOfCode\Day_07\obj\Debug\net5.0\Day_07.pdb
+C:\Users\namr\source\repos\AdventOfCode\Day_07\obj\Debug\net5.0\Day_07.genruntimeconfig.cache
