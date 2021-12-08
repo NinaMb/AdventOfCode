@@ -118,10 +118,6 @@ namespace Day_08
             segments.Add('e', getESegment(numbers[9]));
             segments.Add('f', getFSegment(numbers[1], segments['c']));
 
-            // numbers.Add(5, get5Number(segments['c'], segments['e'], entryItems));
-            // numbers.Add(3, get3Number(segments['b'], segments['e'], entryItems));
-            // numbers.Add(2, get2Number(segments['b'], segments['f'], entryItems));
-
             return segments;
         }
 
@@ -332,45 +328,7 @@ namespace Day_08
 
             throw new Exception("Segment F not found.");
         }
-        /*
-        private static char[] get5Number(char CSegment, char ESegment, string[] entryItems)
-        {
-            foreach (var item in entryItems)
-            {
-                if (item.Length==5 && !item.Contains(CSegment) && !item.Contains(ESegment))
-                {
-                    return item.ToCharArray();
-                }
-            }
 
-            throw new Exception("Number 5 not found.");
-        }
-
-        private static char[] get3Number(char BSegment, char ESegment, string[] entryItems)
-        {
-            foreach (var item in entryItems)
-            {
-                if (item.Length == 5 && !item.Contains(BSegment) && !item.Contains(ESegment))
-                {
-                    return item.ToCharArray();
-                }
-            }
-
-            throw new Exception("Number 3 not found.");
-        }
-
-        private static char[] get2Number(char BSegment, char FSegment, string[] entryItems)
-        {
-            foreach (var item in entryItems)
-            {
-                if (item.Length == 5 && !item.Contains(BSegment) && !item.Contains(FSegment))
-                {
-                    return item.ToCharArray();
-                }
-            }
-
-            throw new Exception("Number 2 not found.");
-        }*/ 
     }
 
 }
